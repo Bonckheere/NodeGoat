@@ -60,6 +60,10 @@
     "should": "^8.3.1",
     "zaproxy": "^0.2.0"
   },
+  "overrides": {
+    "nyc": "13.3.0",
+    "@babel/traverse": "7.23.2"
+  },
   "repository": "https://github.com/OWASP/NodejsGoat",
   "license": "Apache 2.0"
 }
